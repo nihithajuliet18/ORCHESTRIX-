@@ -1,0 +1,7 @@
+{
+  "name": "ORCHESTRIX for EVOLVE 1.0",
+  "description": "Standalone Multi-Agent Research Platform for intelligent data synthesis and academic planning. An all-in-one site for research scholars ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
